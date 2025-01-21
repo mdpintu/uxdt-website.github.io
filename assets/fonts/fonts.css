@@ -1,0 +1,299 @@
+/* Inter fonts */
+@font-face {
+    font-family: 'Inter_Regular';
+    src: url('../fonts/Inter/Inter-Regular.ttf') format('ttf'),
+        url('../fonts/Inter/Inter-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'gorditablack';
+    src: url('gordita/gordita_black-webfont.woff2') format('woff2'),
+        url('gordita/gordita_black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'gorditabold_italic';
+    src: url('gordita/gordita_bold_italic-webfont.woff2') format('woff2'),
+        url('gordita/gordita_bold_italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'gorditabold';
+    src: url('gordita/gordita_bold-webfont.woff2') format('woff2'),
+        url('gordita/gordita_bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'gorditalight_italic';
+    src: url('gordita/gordita_light_italic-webfont.woff2') format('woff2'),
+        url('gordita/gordita_light_italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'gorditalight';
+    src: url('gordita/gordita_light-webfont.woff2') format('woff2'),
+        url('gordita/gordita_light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'gorditamedium_italic';
+    src: url('gordita/gordita_medium_italic-webfont.woff2') format('woff2'),
+        url('gordita/gordita_medium_italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'gorditamedium';
+    src: url('gordita/gordita_medium-webfont.woff2') format('woff2'),
+        url('gordita/gordita_medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'gorditaregular_italic';
+    src: url('gordita/gordita_regular_italic-webfont.woff2') format('woff2'),
+        url('gordita/gordita_regular_italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'gorditaregular';
+    src: url('gordita/gordita_regular-webfont.woff2') format('woff2'),
+        url('gordita/gordita_regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'gorditathin_italic';
+    src: url('gordita/gordita_thin_italic-webfont.woff2') format('woff2'),
+        url('gordita/gordita_thin_italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'gorditathin';
+    src: url('gordita/gordita_thin-webfont.woff2') format('woff2'),
+        url('gordita/gordita_thin-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'gorditaultra_italic';
+    src: url('gordita/gordita_ultra_italic-webfont.woff2') format('woff2'),
+        url('gordita/gordita_ultra_italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'gorditaultra';
+    src: url('gordita/gordita_ultra-webfont.woff2') format('woff2'),
+        url('gordita/gordita_ultra-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+/* opensans fonts */
+@font-face {
+    font-family: 'open_sansbold';
+    src: url('opensans/opensans-bold-webfont.woff2') format('woff2'),
+        url('opensans/opensans-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'open_sansbold_italic';
+    src: url('opensans/opensans-bolditalic-webfont.woff2') format('woff2'),
+        url('opensans/opensans-bolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'open_sans_condensedbold';
+    src: url('opensans/opensans-condbold-webfont.woff2') format('woff2'),
+        url('opensans/opensans-condbold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'open_sansextrabold';
+    src: url('opensans/opensans-extrabold-webfont.woff2') format('woff2'),
+        url('opensans/opensans-extrabold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'open_sansextrabold_italic';
+    src: url('opensans/opensans-extrabolditalic-webfont.woff2') format('woff2'),
+        url('opensans/opensans-extrabolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'open_sansitalic';
+    src: url('opensans/opensans-italic-webfont.woff2') format('woff2'),
+        url('opensans/opensans-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'open_sanslight';
+    src: url('opensans/opensans-light-webfont.woff2') format('woff2'),
+        url('opensans/opensans-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'open_sanslight_italic';
+    src: url('opensans/opensans-lightitalic-webfont.woff2') format('woff2'),
+        url('opensans/opensans-lightitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'open_sansregular';
+    src: url('opensans/opensans-regular-webfont.woff2') format('woff2'),
+        url('opensans/opensans-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'open_sanssemibold';
+    src: url('opensans/opensans-semibold-webfont.woff2') format('woff2'),
+        url('opensans/opensans-semibold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'open_sanssemibold_italic';
+    src: url('opensans/opensans-semibolditalic-webfont.woff2') format('woff2'),
+        url('opensans/opensans-semibolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+/* roboto fonts */
+@font-face {
+    font-family: 'robotoblack';
+    src: url('roboto/roboto-black-webfont.woff2') format('woff2'),
+         url('roboto/roboto-black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'robotoblack_italic';
+    src: url('roboto/roboto-blackitalic-webfont.woff2') format('woff2'),
+         url('roboto/roboto-blackitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'robotobold';
+    src: url('roboto/roboto-bold-webfont.woff2') format('woff2'),
+         url('roboto/roboto-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'robotobold_italic';
+    src: url('roboto/roboto-bolditalic-webfont.woff2') format('woff2'),
+         url('roboto/roboto-bolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'robotoitalic';
+    src: url('roboto/roboto-italic-webfont.woff2') format('woff2'),
+         url('roboto/roboto-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'robotolight';
+    src: url('roboto/roboto-light-webfont.woff2') format('woff2'),
+         url('roboto/roboto-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'robotolight_italic';
+    src: url('roboto/roboto-lightitalic-webfont.woff2') format('woff2'),
+         url('roboto/roboto-lightitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'robotomedium';
+    src: url('roboto/roboto-medium-webfont.woff2') format('woff2'),
+         url('roboto/roboto-medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'robotomedium_italic';
+    src: url('roboto/roboto-mediumitalic-webfont.woff2') format('woff2'),
+         url('roboto/roboto-mediumitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'robotoregular';
+    src: url('roboto/roboto-regular-webfont.woff2') format('woff2'),
+         url('roboto/roboto-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'robotothin';
+    src: url('roboto/roboto-thin-webfont.woff2') format('woff2'),
+         url('roboto/roboto-thin-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'robotothin_italic';
+    src: url('roboto/roboto-thinitalic-webfont.woff2') format('woff2'),
+         url('roboto/roboto-thinitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
